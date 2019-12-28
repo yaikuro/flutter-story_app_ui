@@ -204,6 +204,7 @@ class _MyAppState extends State<MyApp> {
   }
 }
 
+// ignore: must_be_immutable
 class CardScrollWidget extends StatelessWidget {
   var currentPage;
   var padding = 20.0;
